@@ -1,0 +1,45 @@
+@media all and (max-width: 670px) {
+    .ke{
+        width: 20px;
+       } 
+       .login, .home, .profil, .pembelian {
+          padding: 0 15px;
+          font-size: 10px;
+        }
+        .logo{
+            width: 100px;
+            margin-left: 10px;
+          }
+          .listheader li{
+            float: left;
+            line-height: 50px
+          }
+
+          .listheader{
+            float: right;
+            margin-right: 20px;
+          }
+          header {
+              height: 55px;
+          }
+          .footer-logo img {
+            width: 130px;
+            float: left;
+            padding: 10px 25px;
+          }
+          h3 {
+            padding-bottom: 0;
+            text-align: center;
+          }
+          footer {
+            background-color: #80b155;
+            height: 180px;
+            padding-bottom: 20px;
+          }
+          .social {
+            padding-top: 10px;
+            float: right;
+            padding-right: 30px;
+            line-height: 10px;
+          }
+        }
